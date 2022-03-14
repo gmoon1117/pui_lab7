@@ -1,14 +1,10 @@
 body {
-    font-family: 'Open Sans Condensed', sans-serif;
-    color: navy;
+    font-family: 'Roboto', sans-serif;
+    color: coral;
 }
 
 #container {
     margin: 0 auto;
     width: 80%;
     text-align: center;
-}
-
-h1 {
-    font-family: 'Pacifico', cursive;
 }
